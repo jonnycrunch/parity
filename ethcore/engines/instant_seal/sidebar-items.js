@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["InstantSeal","An engine which does not provide any consensus mechanism, just seals blocks internally."]]});

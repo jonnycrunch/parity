@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RemoteClient",""]],"trait":[["BlockChainClient","Blockchain database client. Owns and manages a blockchain and a block queue."],["MiningBlockChainClient","Extended client interface used for mining"]]});

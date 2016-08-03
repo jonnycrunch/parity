@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ConfirmationPayload","Confirmation payload, i.e. the thing to be confirmed"]],"struct":[["ConfirmationRequest","Confirmation waiting in a queue"],["TransactionModification","Possible modifications to the confirmed transaction sent by `Trusted Signer`"]]});

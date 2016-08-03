@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ConfirmationsQueue","Queue for all unconfirmed requests."]],"trait":[["SigningQueue","A queue of transactions awaiting to be confirmed and signed."]]});

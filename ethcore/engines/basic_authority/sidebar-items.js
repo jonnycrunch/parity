@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BasicAuthority","Engine using `BasicAuthority` proof-of-work consensus algorithm, suitable for Ethereum mainnet chains in the Olympic, Frontier and Homestead eras."]]});
